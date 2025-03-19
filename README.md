@@ -55,7 +55,7 @@ A browser extension that allows you to export conversations from ChatGPT and Cla
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/chat-exporter.git
+   git clone https://github.com/doobidoo/chat-exporter.git
    cd chat-exporter
    ```
 
@@ -85,7 +85,7 @@ A browser extension that allows you to export conversations from ChatGPT and Cla
 
 This software is available under a commercial license. For pricing and licensing information, please contact [your email or contact information].
 
-Copyright © 2025 [Your Name or Company]. All rights reserved.
+Copyright © 2025 Henry Krupp. All rights reserved.
 
 The commercial license grants you the right to use, modify, and distribute this software as part of your commercial products, subject to the terms and conditions of the license agreement.
 

@@ -112,4 +112,4 @@ For support, feature requests, or bug reports, please [open an issue](https://gi
 
 ---
 
-Made with ❤️ by [Your Name or Company]
+Made with ❤️ by DOOBIDOO

@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles for the extension */
+body {
+  width: 300px;
+  padding: 16px;
+  font-family: system-ui, -apple-system, sans-serif;
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  font-size: 18px;
+  margin-bottom: 16px;
+  color: #333;
+}
+
+.button {
+  width: 100%;
+  padding: 10px;
+  background: #0070f3;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 500;
+  transition: background-color 0.2s;
+}
+
+.button:hover {
+  background: #0051cc;
+}
+
+.button:active {
+  background: #004099;
+}
+
+.button:disabled {
+  background: #9ca3af;
+  cursor: not-allowed;
+}
+
+.status {
+  margin-top: 12px;
+  color: #666;
+  font-size: 14px;
+  text-align: center;
+  min-height: 20px;
+}
+
+.error {
+  color: #dc2626;
+}
+
+.success {
+  color: #059669;
+}

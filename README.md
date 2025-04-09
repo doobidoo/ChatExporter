@@ -22,7 +22,7 @@ A browser extension that allows you to export conversations from ChatGPT and Cla
 
 ### Manual Installation (Developer Mode)
 
-1. Download the latest release from the [Releases page](https://github.com/yourusername/chat-exporter/releases) or clone this repository
+1. Download the latest release from the [Releases page](https://github.com/doobidoo/chat-exporter/releases) or clone this repository
 2. Unzip the file (if downloaded as a zip)
 3. Open Chrome and navigate to `chrome://extensions/`
 4. Enable "Developer mode" using the toggle in the top-right corner
